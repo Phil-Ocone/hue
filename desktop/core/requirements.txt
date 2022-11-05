@@ -26,7 +26,7 @@ django-nose==1.4.7
 django_opentracing==1.1.0
 django_prometheus==1.0.15
 django-webpack-loader==1.0.0
-djangorestframework-simplejwt==4.4.0  # For Python 3.6
+djangorestframework-simplejwt==5.2.2  # For Python 3.6
 djangorestframework==3.12.2
 eventlet==0.30.2
 future==0.18.2
@@ -47,7 +47,7 @@ openpyxl==2.6.2
 pandas==1.1.5
 phoenixdb==1.1.0
 prompt-toolkit==2.0.10
-protobuf==3.17.0
+protobuf==3.18.3
 pyformance==0.3.2
 pylint==2.6.0
 pylint-django==2.3.0
